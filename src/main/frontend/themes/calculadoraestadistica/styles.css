@@ -1,0 +1,5 @@
+@import url('./main-layout.css');
+@import url('./views/bienvenido-view.css');
+@import url('./views/media-view.css');
+@import url('./views/desviacion-estandar-view.css');
+@import url('./views/mediana-view.css');
