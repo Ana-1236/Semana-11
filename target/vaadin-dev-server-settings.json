@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/sofia/OneDrive/Desktop/00/semana11/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/sofia/OneDrive/Desktop/00/semana11/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/sofia/OneDrive/Desktop/00/semana11/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\sofia\\OneDrive\\Desktop\\00\\semana11\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\sofia\\OneDrive\\Desktop\\00\\semana11\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/sofia/OneDrive/Desktop/00/semana11/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/sofia/OneDrive/Desktop/00/semana11/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/sofia/OneDrive/Desktop/00/semana11/./src/main/frontend/generated/jar-resources",
+  "themeName": "calculadoraestadistica",
+  "clientServiceWorkerSource": "C:\\Users\\sofia\\OneDrive\\Desktop\\00\\semana11\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
